@@ -1,7 +1,9 @@
 name: base58
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: Dart package to compute base 58 encoding. This encoding is typically used for crypto currencies such as Bitcoin.
+version: 1.0.1
 homepage: https://github.com/litaoh/base58
+repository: https://github.com/litaoh/base58
+issue_tracker: https://github.com/litaoh/base58/issues
 
 environment:
   sdk: '>=2.14.0 <3.0.0'

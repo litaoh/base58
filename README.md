@@ -1,4 +1,6 @@
-A Dart Base58 Cipher - Encoder/Decoder library for Dart developers.
+# base58
+
+A Dart Base58 Cipher - Encoder/Decoder library for Dart developers. This encoding is typically used for crypto currencies such as Bitcoin.
 
 ## Usage
 
