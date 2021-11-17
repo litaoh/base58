@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:base58/base58.dart';
+import 'package:bs58/bs58.dart';
 import 'package:hex/hex.dart';
 
 void main() {

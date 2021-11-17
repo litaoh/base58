@@ -2,12 +2,18 @@
 
 A Dart Base58 Cipher - Encoder/Decoder library for Dart developers. This encoding is typically used for crypto currencies such as Bitcoin.
 
+## Install
+```yaml
+dependencies:
+  bs58: ^1.0.2
+```
+
 ## Usage
 
 ```dart
 import 'dart:typed_data';
 
-import 'package:base58/base58.dart';
+import 'package:bs58/bs58.dart';
 import 'package:hex/hex.dart';
 
 void main() {
