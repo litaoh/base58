@@ -1,6 +1,4 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// Dart Base58 Cipher - Encoder/Decoder
 library base58;
 
 import 'package:base_x/base_x.dart';
